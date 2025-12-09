@@ -16,4 +16,7 @@ add_executable(DSA
         Recursion/sumNnumbers.cpp
         Recursion/test1.cpp
         Arrays/revS.cpp
-        Arrays/test.cpp)
+        Arrays/test.cpp
+        Arrays/maxElement.cpp
+        Arrays/minElement.cpp
+        Arrays/sumElements.cpp)
