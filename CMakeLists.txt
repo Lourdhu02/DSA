@@ -19,4 +19,8 @@ add_executable(DSA
         Arrays/test.cpp
         Arrays/maxElement.cpp
         Arrays/minElement.cpp
-        Arrays/sumElements.cpp)
+        Arrays/sumElements.cpp
+        Arrays/countOccur.cpp
+        Arrays/reverseArray.cpp
+        Arrays/isArraySorted.cpp
+        Arrays/secondLargest.cpp)
