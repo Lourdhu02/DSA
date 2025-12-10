@@ -23,4 +23,5 @@ add_executable(DSA
         Arrays/countOccur.cpp
         Arrays/reverseArray.cpp
         Arrays/isArraySorted.cpp
-        Arrays/secondLargest.cpp)
+        Arrays/secondLargest.cpp
+        Arrays/gitTest.cpp)
